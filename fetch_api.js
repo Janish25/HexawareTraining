@@ -69,3 +69,5 @@ const getAllCommentsByPostId =(postId)=>{
     }
 
 getAllCommentsByPostId(5);
+
+//test
