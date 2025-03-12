@@ -1,0 +1,22 @@
+
+.Heading {
+  position: relative;
+  bottom: 263px;
+}
+
+.Heading h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+
+.image {
+  margin-top: 150px;
+
+  text-align: right;
+}
+
+.image img {
+  width: 80%;
+  max-width: 57%;
+}

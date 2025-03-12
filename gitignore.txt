@@ -1,0 +1,6 @@
+mongodb/node_modules
+mongodb/package-lock.json
+Rest API/node_modules
+Rest API/package-lock.json
+Employee Task Management System/node_modules
+Employee Task Management System/package-lock.json
